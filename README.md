@@ -8,8 +8,8 @@
 
 # Description 
 > 'Host this directory on a simple php server.
-
-  A dashboard file will we created after submitting first form in order to list out the feedbacks. 
+ 
+A dashboard file will we created after submitting first form in order to list out the feedbacks. 
 
   The dashboard shows the information about the user's IP,User-Agent and the date-time of submission.  
 
